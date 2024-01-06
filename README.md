@@ -1,7 +1,6 @@
 # Work Day Scheduler Starter Code
 
 
-WEB DEPLOYED URL: https://waltermatulich.github.io/Scheduler/
 
 In this exercise I modifided a starter code, made some adjustments to CSS and implemented 
 Javascript.
