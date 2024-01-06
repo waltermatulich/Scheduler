@@ -8,7 +8,7 @@ $(document).ready(function () {
     $(".notification").removeClass("show");
   });
 
-  // Added a timeout to remove the "show" class after 5 seconds
+  // Added a timeout to remove the "show" class after 5 seconds!
   setTimeout(function() {
     $(".notification").removeClass("show");
   }, 5000);
